@@ -13,10 +13,10 @@ Designed for iPhone 13 mini resolution
 Preview the Design
 
 🔗 Prototype in Figma:
-> [Click here to view the prototype in Figma (View Only)](https://www.figma.com/proto/Qg6i02gR3EoV5MEAeYw6JZ/UI-%5C-UX-Projects?page-id=225%3A22&node-id=230-136&p=f&viewport=353%2C474%2C0.09&t=lZ6L9F8qQhQkWc2a-1&scaling=min-zoom&content-scaling=fixed)
+> [Click here to view the prototype in Figma](https://www.figma.com/proto/Qg6i02gR3EoV5MEAeYw6JZ/UI-%5C-UX-Projects?page-id=225%3A22&node-id=230-136&p=f&viewport=353%2C474%2C0.09&t=lZ6L9F8qQhQkWc2a-1&scaling=min-zoom&content-scaling=fixed)
 
 🔗 View in Figma:
-> [Click here to view all the screens in Figma (View Only)](https://www.figma.com/design/Qg6i02gR3EoV5MEAeYw6JZ/UI-%5C-UX-Projects?node-id=225-22&t=0NBGaxliSg8RBjDf-1)
+> [Click here to view all the screens in Figma](https://www.figma.com/design/Qg6i02gR3EoV5MEAeYw6JZ/UI-%5C-UX-Projects?node-id=225-22&t=0NBGaxliSg8RBjDf-1)
 
 
 🛠 Tools Used
